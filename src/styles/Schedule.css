@@ -1,0 +1,10 @@
+.schedule {
+    background-color: #179bae;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+
+  .schedule p {
+    margin-top: 10px;
+  }

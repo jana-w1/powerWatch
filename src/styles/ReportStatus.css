@@ -1,0 +1,36 @@
+.report-status {
+    background-color: #ff8343;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+  }
+
+  .report-status button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #ff8343;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+/* Styling for the dropdown */
+.status-dropdown {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #179BAE; /* Matches your theme */
+    border-radius: 5px;
+    background-color: #fff;
+    color: #333;
+    outline: none;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+  }
+  
+  .status-dropdown:focus {
+    border-color: #FF8343; /* Focus color */
+  }
+  .report-status button:hover {
+    background-color: #ffd4b3;
+  }
